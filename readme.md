@@ -6,7 +6,8 @@ Build slides like this:
 
 ```bash
 git clone https://github.com/marko-knoebl/rehype-slides-starter.git
-cd rehype-slides
+cd rehype-slides-starter
+npm install
 npm run build
 ```
 
